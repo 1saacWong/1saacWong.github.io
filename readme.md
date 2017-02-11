@@ -1,0 +1,1 @@
+This is the Prepwork of **Isaac Wong** for *Accelerate HK*. It looks lame for the first work but I will try to improve it later. [Click here for more info about Accelerate HK](http://www.acceleratedhk.com)

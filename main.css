@@ -1,0 +1,45 @@
+body{
+background: #000;
+}
+header{
+  background: #000;
+  opacity: 0.6;
+}
+.video-sec{
+  margin-top:-60px;
+}
+video{
+  width:100%
+}
+/***** About *******/
+.about{
+  width: 100%;
+  height: 500px;
+  background: #000;
+  margin-top:-10px;
+}
+
+/******* Interest ****************/
+.int{
+  height: 800px;
+}
+
+/****** Slider ***********/
+.slider{
+height: 590px;
+}
+/****** Contact *********/
+.contact{
+
+  color: #fff;
+  text-align: #fff;
+}
+button{
+  margin:0 auto;
+}
+.modal-title{
+  color: #fff;
+}
+.fa{
+  color: #f63;
+}
